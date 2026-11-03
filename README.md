@@ -1,18 +1,5 @@
-# StarYunLee
+### 👋 Hi, I'm StarYun
 
-Building tools around AI, automation and personal workflows.
+Building tools around AI, automation & the Apple ecosystem.
 
-Interested in:
-- AI applications
-- Apple ecosystem
-- Developer productivity tools
-
-
-![My contribution animation](images/contriboom/game.svg)
-
-## Projects
-
-- Scripting tools and utilities
-- Personal automation experiments
-- Open source explorations
-
+![](images/contriboom/game.svg)
