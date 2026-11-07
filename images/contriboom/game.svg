@@ -680,6 +680,10 @@
 <rect x="1150" y="50" width="20" height="20" rx="3" fill="#aceebb"><animate attributeName="fill" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.993678;1" values="#aceebb;#eff2f5;#aceebb;#aceebb"/></rect>
 <path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 <animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.993678;1" values="1;0;1;1"/></g>
+<g data-cell="52,5"><title>2026-11-06: 1 contributions</title>
+<rect x="1150" y="116" width="20" height="20" rx="3" fill="#aceebb"><animate attributeName="fill" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.993678;1" values="#aceebb;#eff2f5;#aceebb;#aceebb"/></rect>
+<path d="M1153 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+<animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.993678;1" values="1;0;1;1"/></g>
 </g>
 <g clip-path="url(#calendar-clip)">
 <g data-blast="0" opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.018965;0.021999;1" values="0;1;0;0"/>
@@ -1495,9 +1499,16 @@
 <use href="#flame" transform="translate(1072 82)"/>
 <use href="#flame" transform="translate(1160 104)"/>
 <use href="#flame" transform="translate(1160 126)"/>
-<use href="#flame" transform="translate(1160 148)"/>
 <use href="#flame" transform="translate(1160 60)"/>
 </g>
+<g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
+<g transform="translate(1160 126)"><animateTransform attributeName="transform" type="translate" dur="158.19s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.538782;0.542259;1" values="1160 126;1160 126;1151 113;1160 126"/><rect x="-1.5" y="-1.5" width="3" height="3" rx=".5" fill="#b65a15"/></g></g>
+<g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
+<g transform="translate(1160 126)"><animateTransform attributeName="transform" type="translate" dur="158.19s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.538782;0.542259;1" values="1160 126;1160 126;1169 115;1160 126"/><rect x="-1.5" y="-1.5" width="3" height="3" rx=".5" fill="#b65a15"/></g></g>
+<g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
+<g transform="translate(1160 126)"><animateTransform attributeName="transform" type="translate" dur="158.19s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.538782;0.542259;1" values="1160 126;1160 126;1149 134;1160 126"/><rect x="-1.5" y="-1.5" width="3" height="3" rx=".5" fill="#b65a15"/></g></g>
+<g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
+<g transform="translate(1160 126)"><animateTransform attributeName="transform" type="translate" dur="158.19s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.538782;0.542259;1" values="1160 126;1160 126;1172 132;1160 126"/><rect x="-1.5" y="-1.5" width="3" height="3" rx=".5" fill="#b65a15"/></g></g>
 <g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
 <g transform="translate(1160 60)"><animateTransform attributeName="transform" type="translate" dur="158.19s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.538782;0.542259;1" values="1160 60;1160 60;1151 47;1160 60"/><rect x="-1.5" y="-1.5" width="3" height="3" rx=".5" fill="#b65a15"/></g></g>
 <g opacity="0"><animate attributeName="opacity" dur="158.19s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.538782;0.542259;1" values="0;1;0;0"/>
